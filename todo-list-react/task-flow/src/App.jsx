@@ -1,4 +1,4 @@
-import { TaskContainer } from "./components/taskContainer";
+import TaskContainer from "./components/taskContainer";
 
 function App() {
   return (
